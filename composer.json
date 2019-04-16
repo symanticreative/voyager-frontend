@@ -1,6 +1,6 @@
 {
-    "name": "pvtl/voyager-frontend",
-    "description": "The Missing Front-end for The Missing Laravel Admin.",
+    "name": "symanticreative/frontend",
+    "description": "Frontend for Voyager",
     "keywords": [
         "laravel",
         "voyager",
@@ -9,18 +9,18 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Pivotal Agency",
-            "homepage": "http://pivotalagency.com.au",
-            "email": "tech@pivotalagency.com.au"
+            "name": "Symantic Creative",
+            "homepage": "http://symanticreative.com",
+            "email": "admin@symanticreative.com"
         }
     ],
     "require": {
-        "php": ">=7.0",
+        "php": ">=7.2",
         "pvtl/voyager-pages": "^0.2.9",
         "pvtl/voyager-blog": "^0.2.7",
         "tcg/voyager": "^1.1.8",
         "spatie/laravel-sitemap": "~5.2.0",
-        "laravel/scout": "^5.0",
+        "laravel/scout": "^7.0",
         "teamtnt/laravel-scout-tntsearch-driver": "^7.0"
     },
     "require-dev": {
