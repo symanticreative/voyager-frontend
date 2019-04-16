@@ -1,8 +1,6 @@
 # Voyager Frontend
 
-![Voyager Frontend Screenshot](/readme-intro.jpg)
-
-__The Missing Frontend for The Missing Laravel Admin.__
+__A Continuous Long term Fork of Voyager Frontend__
 
 This [Laravel](https://laravel.com/) package adds frontend views, routes and assets to a [Voyager](https://laravelvoyager.com/) project.
 
