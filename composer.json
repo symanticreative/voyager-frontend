@@ -14,7 +14,6 @@
             "email": "tech@pivotalagency.com.au"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": ">=7.0",
         "pvtl/voyager-pages": "^0.2.9",
